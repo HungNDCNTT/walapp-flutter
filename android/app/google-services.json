@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "875508168138",
+    "project_id": "walpap-75715",
+    "storage_bucket": "walpap-75715.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875508168138:android:17aa7f118e87cf869c8b33",
+        "android_client_info": {
+          "package_name": "nws.flutter.walapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875508168138-oguhj4qve82q2kiks2pbh8c44cf4nd43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nws.flutter.walapp",
+            "certificate_hash": "21587323ecc69ffbd91cdadd9c328061dab13f2c"
+          }
+        },
+        {
+          "client_id": "875508168138-mndrkho50mralpjh6esn5j470pap84vm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5ftfdimscb7M9IbktR8LG9L1RmS7tlms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875508168138-mndrkho50mralpjh6esn5j470pap84vm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "875508168138-psr87s7kai8tv01v5pmdmcijeiae9ben.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "nws.flutter.walapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
